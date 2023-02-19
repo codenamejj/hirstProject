@@ -10,4 +10,4 @@ for color in colors:
     fin_color = (r, g, b)
 
     color_list.append(fin_color)
-print(color_list)
+# print(color_list)
